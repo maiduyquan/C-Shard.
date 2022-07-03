@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\Pay_ATM.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\Pay_ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\Pay_ATM.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\Pay_ATM.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\Pay_ATM.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\bin\Debug\net6.0\Pay_ATM.exe
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\bin\Debug\net6.0\Pay_ATM.deps.json
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\bin\Debug\net6.0\Pay_ATM.runtimeconfig.json
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\bin\Debug\net6.0\Pay_ATM.dll
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\bin\Debug\net6.0\Pay_ATM.pdb
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\Pay_ATM.dll
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\refint\Pay_ATM.dll
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\Pay_ATM.pdb
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\Pay_ATM.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Pay_ATM\Pay_ATM\obj\Debug\net6.0\ref\Pay_ATM.dll
