@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\bin\Debug\net6.0\Snippet01.exe
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\bin\Debug\net6.0\Snippet01.deps.json
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\bin\Debug\net6.0\Snippet01.runtimeconfig.json
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\bin\Debug\net6.0\Snippet01.dll
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\bin\Debug\net6.0\Snippet01.pdb
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\Snippet01.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\Snippet01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\Snippet01.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\Snippet01.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\Snippet01.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\Snippet01.dll
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\refint\Snippet01.dll
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\Snippet01.pdb
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\Snippet01.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet01\obj\Debug\net6.0\ref\Snippet01.dll
